@@ -14,6 +14,7 @@ p {
 }
 
 h1 {
+    
     color: #ffc;
     background-color: #900;
     font-size: 2em;
@@ -63,5 +64,6 @@ li {
 }
 
 table {
+
     background-color: #ccc;
 }
